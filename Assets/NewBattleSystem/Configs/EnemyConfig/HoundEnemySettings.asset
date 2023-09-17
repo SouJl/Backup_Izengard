@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e189cdabd824eed46842bd7101089e33, type: 3}
+  m_Name: HoundEnemySettings
+  m_EditorClassIdentifier: 
+  <Type>k__BackingField: 3
+  <MaxHelth>k__BackingField: 100
+  <AttackDamage>k__BackingField: 10
+  <DefeatCost>k__BackingField: 10
+  <MaxUnitsInPool>k__BackingField: 2
+  <Core>k__BackingField: {fileID: 11400000, guid: a85afe972da60f74c9ec3d030c6da12b, type: 2}
+  <Prefab>k__BackingField: {fileID: 137360, guid: 126d67b299a7abf4bb2b802be59ee6d9, type: 3}
